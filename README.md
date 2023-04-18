@@ -1,3 +1,5 @@
+# Hello, I'm Steph
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ More at https://github.com/coding-motion, https://github.com/vymalo and https://github.com/bayamsell
