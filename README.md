@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- More at https://github.com/coding-motion, https://github.com/vymalo and https://github.com/bayamsell
+ More at
+ - https://github.com/coding-motion, 
+ - https://github.com/vymalo 
+ - https://github.com/bayamsell
