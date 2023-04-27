@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
  More at
- - https://github.com/coding-motion, 
- - https://github.com/vymalo 
+ - https://github.com/vymalo
+ - https://github.com/coding-motion
  - https://github.com/bayamsell
