@@ -21,3 +21,17 @@ Here are some ideas to get you started:
  - https://github.com/vymalo
  - https://github.com/coding-motion
  - https://github.com/bayamsell
+
+Tools  
+ - https://github.com/ADORSYS-GIS/ansible-laptop-playbook
+ - https://github.com/stephane-segning/multer-sharp-transform
+ - https://github.com/stephane-segning/multer-wrapper
+ - https://github.com/stephane-segning/rust-open-api-cli
+ - https://gitlab.com/dduplicata/dduplicata
+
+WIP
+- https://github.com/stephane-segning/nextjs-website
+- https://github.com/stephane-segning/imarkedit
+- https://github.com/stephane-segning/lynx-scanner
+- https://github.com/stephane-segning/lynx-scanner-backend
+- 
