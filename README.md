@@ -30,8 +30,12 @@ Tools
  - https://gitlab.com/dduplicata/dduplicata
 
 WIP
+- https://github.com/stephane-segning/ssegning-dot
 - https://github.com/stephane-segning/nextjs-website
 - https://github.com/stephane-segning/imarkedit
 - https://github.com/stephane-segning/lynx-scanner
 - https://github.com/stephane-segning/lynx-scanner-backend
-- 
+- https://github.com/vymalo/skakel-mobile-app
+- https://github.com/stephane-segning/vichiz
+- https://github.com/vymalo/vymalo-project-boilerplate
+
