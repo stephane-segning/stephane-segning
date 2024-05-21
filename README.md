@@ -17,19 +17,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- More at
+## My Github Stats
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=francis-pouatcha&show_icons=true)
+
+## More at
  - https://github.com/vymalo
  - https://github.com/coding-motion
  - https://github.com/bayamsell
 
-Tools  
+## Tools  
  - https://github.com/ADORSYS-GIS/ansible-laptop-playbook
  - https://github.com/stephane-segning/multer-sharp-transform
  - https://github.com/stephane-segning/multer-wrapper
  - https://github.com/stephane-segning/rust-open-api-cli
  - https://gitlab.com/dduplicata/dduplicata
 
-WIP
+## WIP
 - https://github.com/stephane-segning/ssegning-dot
 - https://github.com/stephane-segning/nextjs-website
 - https://github.com/stephane-segning/imarkedit
