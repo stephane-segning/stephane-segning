@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Github Stats
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=francis-pouatcha&show_icons=true)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=stephane-segning&show_icons=true)
 
 ## More at
  - https://github.com/vymalo
