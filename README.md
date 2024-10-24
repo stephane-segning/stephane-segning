@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Github Stats
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=stephane-segning&show_icons=true)
 
 ## More at
